@@ -11,7 +11,7 @@ This repository defines the infrastructure, content configuration, and "PointSav
 
 * **Target VM:** `vm-woodfine-corp-wiki` (e.g., `vm-woodfine-landing`)
 * **Base OS Image:** `mediakit-os` (Flavor: `app-knowledge`)
-* **Public URL:** `[INSERT URL]`
+* **Public URL:** `https://www.corporate.woodfinegroup.com`
 
 ## 🏛 Architecture (The Supply Chain)
 This deployment sits at the end of the **Sovereign Supply Chain**:
